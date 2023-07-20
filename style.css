@@ -1,0 +1,32 @@
+body {
+    background: url("download.jpeg");
+    background-size: contain;
+    color: white;
+}
+
+.a {
+    border: 10px double blanchedalmond;
+    border-radius: 40px;
+    width: 100%;
+    font-size: larger;
+    font-family: 'MedievalSharp', cursive;
+}
+
+#b {
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+#ending {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'MedievalSharp', cursive;
+    background-color: black;
+    line-height: 3;
+}
+
+canvas {
+    background-color: cornflowerblue;
+    border: 10px outset darkorange;
+}
